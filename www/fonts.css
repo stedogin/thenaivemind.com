@@ -1,0 +1,29 @@
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('http://www.thenaivemind.com/www/webfonts/29923C_1_0.eot');
+  src: url('http://www.thenaivemind.com/www/webfonts/29923C_1_0.eot?#iefix') format('embedded-opentype'), url('http://www.thenaivemind.com/www/webfonts/29923C_1_0.woff') format('woff'), url('http://www.thenaivemind.com/www/webfonts/29923C_1_0.ttf') format('truetype');
+  font-weight: 100;
+}
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('http://www.thenaivemind.com/www/webfonts/29921C_22_0.eot');
+  src: url('http://www.thenaivemind.com/www/webfonts/29921C_22_0.eot?#iefix') format('embedded-opentype'), url('http://www.thenaivemind.com/www/webfonts/29921C_22_0.woff') format('woff'), url('http://www.thenaivemind.com/www/webfonts/29921C_22_0.ttf') format('truetype');
+  font-weight: 300;
+}
+
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('http://www.thenaivemind.com/www/webfonts/29921C_24_0.eot');
+  src: url('http://www.thenaivemind.com/www/webfonts/29921C_24_0.eot?#iefix') format('embedded-opentype'), url('http://www.thenaivemind.com/www/webfonts/29921C_24_0.woff') format('woff'), url('http://www.thenaivemind.com/www/webfonts/29921C_24_0.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('http://www.thenaivemind.com/www/webfonts/29921C_27_0.eot');
+  src: url('http://www.thenaivemind.com/www/webfonts/29921C_27_0.eot?#iefix') format('embedded-opentype'), url('http://www.thenaivemind.com/www/webfonts/29921C_27_0.woff') format('woff'), url('http://www.thenaivemind.com/www/webfonts/29921C_27_0.ttf') format('truetype');
+  font-weight: 400;
+}
+
